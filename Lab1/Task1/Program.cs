@@ -35,7 +35,7 @@ namespace Task1
             {
                 if (primeN(arr[i]) == true)//calling a function
                 {
-                    cnt++;
+                    cnt++;// incrementing the counter
                 }
 
             }
