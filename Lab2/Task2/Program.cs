@@ -6,7 +6,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            string text = System.IO.File.ReadAllText(@"C:\Users\Asus\Documents\pp2\Lab2\Task2\input.txt");//taking the string from the file
+            string text = System.IO.File.ReadAllText(@"C:\git\Lab2\Task2\input.txt");//taking the string from the file
             string[] nums = text.Split(" ");
             int[] ints = Array.ConvertAll(nums, int.Parse);//converting all string elements into integers and adding into the array
             int j;
@@ -21,7 +21,7 @@ namespace Task2
                 if (j == ints[i])
                 {
                     //as prime number was found it is inserted into the output file using StreanWriter
-                    using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\Asus\Documents\pp2\Lab2\Task2\output.txt", true))
+                    using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\git\Lab2\Task2\output.txt", true))
                     {
                         file.Write(nums[i] + " ");
                     }

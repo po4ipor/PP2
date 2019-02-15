@@ -9,3 +9,14 @@ C:\Users\Asus\Documents\pp2\Lab2\Task2\obj\Debug\netcoreapp2.1\Task2.AssemblyInf
 C:\Users\Asus\Documents\pp2\Lab2\Task2\obj\Debug\netcoreapp2.1\Task2.AssemblyInfo.cs
 C:\Users\Asus\Documents\pp2\Lab2\Task2\obj\Debug\netcoreapp2.1\Task2.dll
 C:\Users\Asus\Documents\pp2\Lab2\Task2\obj\Debug\netcoreapp2.1\Task2.pdb
+C:\git\Lab2\Task2\bin\Debug\netcoreapp2.1\Task2.deps.json
+C:\git\Lab2\Task2\bin\Debug\netcoreapp2.1\Task2.runtimeconfig.json
+C:\git\Lab2\Task2\bin\Debug\netcoreapp2.1\Task2.runtimeconfig.dev.json
+C:\git\Lab2\Task2\bin\Debug\netcoreapp2.1\Task2.dll
+C:\git\Lab2\Task2\bin\Debug\netcoreapp2.1\Task2.pdb
+C:\git\Lab2\Task2\obj\Debug\netcoreapp2.1\Task2.csprojAssemblyReference.cache
+C:\git\Lab2\Task2\obj\Debug\netcoreapp2.1\Task2.csproj.CoreCompileInputs.cache
+C:\git\Lab2\Task2\obj\Debug\netcoreapp2.1\Task2.AssemblyInfoInputs.cache
+C:\git\Lab2\Task2\obj\Debug\netcoreapp2.1\Task2.AssemblyInfo.cs
+C:\git\Lab2\Task2\obj\Debug\netcoreapp2.1\Task2.dll
+C:\git\Lab2\Task2\obj\Debug\netcoreapp2.1\Task2.pdb
